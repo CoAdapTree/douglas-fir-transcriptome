@@ -3,7 +3,8 @@ We have long reads and short read transcriptomes.  With these enormous amount of
 [De novo assembly of long read transcriptome](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads)
 *   [Quality control of isoseq subreads](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Isoseq3-quality-control)
 *   [Assembly of reference transcriptome](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Reference-transcriptome)  
-*   [Identification of transcription factors and domains](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Identify-TF)  
+*   [Identify transcription factors](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Identify-TF-using-Entap-annotation)
+*   [Predict transcription factors and domains](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Identify-TF)  
 *   [Prediction of long non-coding RNA](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Predict-lncRNA)  
 *   [Identify miRNA](https://gitlab.com/douglas-fir-transcriptome/de-novo-assembly-of-long-reads/tree/Identify-miRNA)  
 
