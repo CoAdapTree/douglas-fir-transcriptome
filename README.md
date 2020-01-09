@@ -15,3 +15,6 @@ We have long reads and short read transcriptomes.  With these enormous amount of
 [De novo assembly of short reads](https://gitlab.com/douglas-fir-transcriptome/De-novo-assembly-of-short-reads)    
 
 [Hybrid sequencing](https://gitlab.com/douglas-fir-transcriptome/hybrid-sequencing)  
+*   [Variant calling](https://gitlab.com/douglas-fir-transcriptome/hybrid-sequencing/blob/Variant-calling-with-rnaseq/README.md)  
+*   [Gene expression](https://gitlab.com/douglas-fir-transcriptome/hybrid-sequencing/blob/Gene-expression-analysis/README.md)  
+*   [Gene co-expression](https://gitlab.com/douglas-fir-transcriptome/hybrid-sequencing/blob/Gene-coexpression-network-analysis/README.md)  
